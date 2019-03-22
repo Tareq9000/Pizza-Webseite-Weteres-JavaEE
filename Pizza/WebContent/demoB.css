@@ -1,0 +1,9 @@
+body{
+	background-color:#cc3300;
+	text-align: center;
+}
+.card{
+		background-color:#4d4d4d;
+		text-align: center;
+		float: left;
+}
